@@ -1,3 +1,3 @@
-# symfony
+# Symfony
 
-Proyectos en Symfony 
+Proyectos con Symfony 
